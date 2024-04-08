@@ -19,6 +19,6 @@
 ---
 include:
   - board: nice_nano
-    shield: corne_left
+    shield: minidox_left
   - board: nice_nano
-    shield: corne_right
+    shield: minidox_right
